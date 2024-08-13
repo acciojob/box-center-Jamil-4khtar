@@ -12,3 +12,6 @@ body {
 	place-items: center;
 	border: 2px solid black;
 }
+.box p {
+	color: purple;
+}
